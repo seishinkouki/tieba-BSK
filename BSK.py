@@ -41,7 +41,7 @@ headers = {
     "Host": "tieba.baidu.com",
     "Origin": "https://tieba.baidu.com",
     "Pragma": "no-cache",
-    "Referer": "https://tieba.baidu.com/p/7236785775",
+    "Referer": "https://tieba.baidu.com/p/",
     "Sec-Fetch-Dest": "empty",
     "Sec-Fetch-Mode": "cors",
     "Sec-Fetch-Site": "same-origin",
@@ -89,7 +89,7 @@ BSK_orig = {"a1": 1536,  # screen_availWidth
             "w2": "NULL",  # document_width
             "w3": False,  # selenium|webdriver检测 False
             "w4": "window,self,document,name,location,customElements,history,locationbar,menubar,personalbar,"
-                  "scrollbars,statusbar,toolbar,status,closed,frames,length,top,opener,parent,frameElement",
+                  "scrollbars,statusbar,toolbar,status,closed,frames,length,top,opener,parent,frameElement"
             }
 
 tbs = {"tbs": ""}
