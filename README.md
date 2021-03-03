@@ -3,8 +3,7 @@
 
 ## 思路?
 
-本人根据[8qwe24657913](https://github.com/8qwe24657913)大佬的[记录分析百度"BSK"脚本的过程](https://github.com/8qwe24657913/Analyze_baidu_BSK)仓库里生成工具生成了贴吧的新版BSK加密js代码,并用python实现了主要加解密逻辑, 在调试js的过程中也大概知道了所有参数的含义, 均已注释在python代码中.同时感谢[bigtrace](https://github.com/bigtrace)大佬的[在线工具](http://www.baidubsk.site)的便利
-
+本人根据[8qwe24657913](https://github.com/8qwe24657913)大佬的[记录分析百度"BSK"脚本的过程](https://github.com/8qwe24657913/Analyze_baidu_BSK)仓库里生成工具生成了贴吧的新版BSK加密js代码,并用python实现了主要加解密逻辑, 在调试js的过程中也大概知道了所有参数的含义, 均已注释在python代码中.同时感谢[bigtrace](https://github.com/bigtrace)大佬的[在线工具](http://www.baidubsk.site)
 
 ## BSK加密大概原理
 
